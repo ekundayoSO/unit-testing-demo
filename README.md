@@ -1,3 +1,6 @@
+[![CI](https://github.com/ekundayoSO/unit-testing-demo/actions/workflows/demotest.yml/badge.svg)](https://github.com/ekundayoSO/unit-testing-demo/actions/workflows/demotest.yml)
+
+
 # Jest project
 
 docs: https://jestjs.io/docs
